@@ -49,7 +49,7 @@ Aplikasi rich text editor yang lengkap dan professional menggunakan React, TypeS
 
 1. **Clone Repository**
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/fadhly-git/tiptap_editor_WYSIWYG.git]
    cd rich-text-editor
    ```
 
